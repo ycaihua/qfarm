@@ -1,23 +1,25 @@
 <pre>
-UCHome
+QQFarm文件分布目录示意图:
+
+UCH(UCHome根目录)
 ├─image
 │  ├─app
 │  └─icon
 ├─qqfarm
-│  ├─module
-│  ├─source
-│  │  ├─admin
+│  ├─module(SWF资源及配置,目录树暂略)
+│  ├─source(PHP资源)
+│  │  ├─admin(管理)
 │  │  │  └─mod
-│  │  ├─cron
-│  │  ├─mc
+│  │  ├─cron(计划任务)
+│  │  ├─mc(牧场)
 │  │  │  ├─config
 │  │  │  └─mod
-│  │  ├─nc
+│  │  ├─nc(农场)
 │  │  │  ├─config
 │  │  │  └─mod
 │  │  └─tools
 │  │      └─mod
-│  └─view
+│  └─view(模板资源)
 │      ├─admin
 │      ├─images
 │      │  └─icon
@@ -27,5 +29,5 @@ UCHome
 │      │  └─swfobject
 │      └─tools
 └─source
-    └─cron
+    └─cron(计划任务引用文件)
 </pre>
