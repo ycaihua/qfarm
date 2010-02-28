@@ -1,6 +1,5 @@
 <pre>
 QQFarm文件分布目录示意图:
-
 UCH(UCHome根目录)
 ├─image
 │  ├─app
@@ -17,7 +16,7 @@ UCH(UCHome根目录)
 │  │  ├─nc(农场)
 │  │  │  ├─config
 │  │  │  └─mod
-│  │  └─tools
+│  │  └─tools(前台用户应用)
 │  │      └─mod
 │  └─view(模板资源)
 │      ├─admin
