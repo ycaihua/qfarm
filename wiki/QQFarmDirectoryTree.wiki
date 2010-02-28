@@ -1,0 +1,29 @@
+UCHome
+├─image
+│  ├─app
+│  └─icon
+├─qqfarm
+│  ├─module
+│  ├─source
+│  │  ├─admin
+│  │  │  └─mod
+│  │  ├─cron
+│  │  ├─mc
+│  │  │  ├─config
+│  │  │  └─mod
+│  │  ├─nc
+│  │  │  ├─config
+│  │  │  └─mod
+│  │  └─tools
+│  │      └─mod
+│  └─view
+│      ├─admin
+│      ├─images
+│      │  └─icon
+│      ├─js
+│      │  ├─help
+│      │  ├─squery
+│      │  └─swfobject
+│      └─tools
+└─source
+    └─cron
