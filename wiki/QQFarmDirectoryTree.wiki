@@ -1,9 +1,9 @@
 <pre>
 QQFarm文件分布目录示意图:
-UCH(UCHome根目录)
+UCHome根目录
 ├─image
-│  ├─app
-│  └─icon
+│  ├─app(应用图标)
+│  └─icon(feeds图标)
 ├─qqfarm
 │  ├─module(SWF资源及配置,目录树暂略)
 │  ├─source(PHP资源)
